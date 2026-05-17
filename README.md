@@ -27,7 +27,7 @@ SELECT
 FROM orders;
 ```
 
-![Total Revenue & Profit](screenshots/01_total_revenue.jpeg)
+![Total Revenue & Profit](screenshots/01_total_revenue.png)
 
 Total revenue came in at **$14,720.12** with a profit of **$2,723.13** — roughly an 18.5% margin. Not bad, but there’s definitely room to improve depending on the category.
 
